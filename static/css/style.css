@@ -1,0 +1,7 @@
+body { font-family: Arial; padding: 20px; background: #f9f9f9; }
+nav { display: flex; justify-content: space-between; padding: 10px 40px; background: white; }
+.logo { font-weight: bold; color: teal; font-size: 24px; }
+.hero { text-align: center; margin-top: 80px; }
+.hero h1 span { color: #04b485; }
+.btn { padding: 10px 20px; background: teal; color: white; border: none; }
+.cards a { display: inline-block; margin: 10px; padding: 20px; background: white; border: 1px solid #ccc; border-radius: 10px; }
