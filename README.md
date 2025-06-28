@@ -63,7 +63,7 @@ python app.py
 ## 📽️ Live Demo / Video
 
 - 🌐 [GitHub Repository](https://github.com/NikhilShimpy/MediPulse-AI)  
-- 📹 [Demo Video](https://your-video-demo-link.com) *(Add your links)*
+- 📹 [Demo Video](https://youtu.be/g61LmFrsIkY?si=5-OPxZ4e7dZTZkxF) 
 
 ---
 
