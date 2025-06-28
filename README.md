@@ -3,7 +3,7 @@
 
 Developed by **Nikhil Shimpy, Harsh Vardhan Hatiya, Palak Paithari**
 
-MediPulse-AI is an intelligent healthcare assistant that enables users to **discover nearby hospitals**, **analyze skin conditions from images**, **interpret blood report PDFs**, and **receive instant support from an AI-powered chatbot**—all through a unified web platform.
+MediPulse-AI is an intelligent healthcare assistant that enables users to **discover nearby hospitals**, **analyze skin conditions from images**, **interpret report PDFs**, and **receive instant support from an AI-powered chatbot**—all through a unified web platform.
 
 ---
 
