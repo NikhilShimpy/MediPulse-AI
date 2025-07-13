@@ -7,6 +7,14 @@ MediPulse-AI is an intelligent healthcare assistant that enables users to **disc
 
 ---
 
+## 👥 Contributors
+
+- **Nikhil Shimpy** – [@NikhilShimpy](https://github.com/NikhilShimpy)  
+- **Harsh Vardhan** – [@Harsh147v](https://github.com/Harsh147v)
+- **Chetna Sikarwar** – [@chetnasingh31](https://github.com/chetnasingh31)
+  
+---
+
 ## 🔍 Features
 
 - **🌍 Geo-Located Hospital Discovery**
