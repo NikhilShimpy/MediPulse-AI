@@ -1,7 +1,7 @@
 
 # 🏥 MediPulse-AI: Instant Hospital Finder & Smart Health Analyzer
 
-Developed by **Nikhil Shimpy, Harsh Vardhan Hatiya, Palak Paithari**
+Developed by **Nikhil Shimpy, Harsh Vardhan Hatiya, Palak Paithari , Chetna Sikarwar**
 
 MediPulse-AI is an intelligent healthcare assistant that enables users to **discover nearby hospitals**, **analyze skin conditions from images**, **interpret report PDFs**, and **receive instant support from an AI-powered chatbot**—all through a unified web platform.
 
@@ -11,6 +11,7 @@ MediPulse-AI is an intelligent healthcare assistant that enables users to **disc
 
 - **Nikhil Shimpy** – [@NikhilShimpy](https://github.com/NikhilShimpy)  
 - **Harsh Vardhan** – [@Harsh147v](https://github.com/Harsh147v)
+- **Palak Paithari** – [@palakpaithari](https://github.com/palakpaithari)
 - **Chetna Sikarwar** – [@chetnasingh31](https://github.com/chetnasingh31)
   
 ---
