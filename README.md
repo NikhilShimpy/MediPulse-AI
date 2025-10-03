@@ -75,8 +75,9 @@ python app.py
 ## 📽️ Live Demo / Video
 
 - 🌐 [GitHub Repository](https://github.com/NikhilShimpy/MediPulse-AI)  
-- 📹 [Demo Video](https://youtu.be/g61LmFrsIkY?si=5-OPxZ4e7dZTZkxF) 
-
+- 📹 [Demo Video](https://youtu.be/UN-5gJTeWaY?si=sIWZz-56uijsQNZ4) 
+- 💼 [LinkedIn Post](https://www.linkedin.com/posts/nikhilshimpy_odoohackathon-skillswap-hackathonmagic-activity-7352068128144617472-E7UO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn_i0YBsJdDqg7i_rY4sHhWLWuwNAG52gA)
+  
 ---
 
 ## 📄 License
